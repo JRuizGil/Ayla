@@ -66,6 +66,7 @@ public class PlayerController : MonoBehaviour
         else if (moveInput < 0 && isFacingRight)
         {
             Flip();
+            //ASdsldfkmdgñldfknghgñ
         }
     }
 
