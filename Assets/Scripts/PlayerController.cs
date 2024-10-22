@@ -76,7 +76,7 @@ public class PlayerController : MonoBehaviour
         isFacingRight = !isFacingRight; // Cambiamos la dirección
         Vector3 scaler = transform.localScale; // Obtenemos la escala actual
         scaler.x *= -1; // Invertimos el eje X
-        transform.localScale = scaler; // Asignamos la nueva escalafgj
+        transform.localScale = scaler; // Asignamos la nueva escalafgjsfsdfdsf
     }
 
     private void OnDrawGizmos()
