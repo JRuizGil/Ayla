@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour
     public MonoBehaviour Player;
     public GameObject Menu;
 
-    // Variable para controlar la dirección del jugador
+    // Variable para controlar la dirección del jugadorasdasd
     private bool isFacingRight = true;
 
     void Start()
